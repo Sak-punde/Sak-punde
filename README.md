@@ -1,3 +1,4 @@
+<img src="https://github.com/Sak-punde/Sak-punde/blob/main/Logo.png" width="1200" height="300" />
 
 
 <h1 align="center">Hi 👋, I'm Sakshi Punde</h1>
