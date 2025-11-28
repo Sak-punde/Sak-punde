@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sak-punde&label=Profile%20views&color=0e75b6&style=flat" alt="sak-punde" /> </p>
 
-- 🔭 I’m currently working on [Financial Tracking Website](https://github.com/Sak-punde/Financial-Tracking-Website)
+- 🔭 I’m currently working on AL/ML
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sakshi-punde-572217286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/sakshi-punde-572217286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 💬 Ask me about **DSA, Frontend, Backend Technologies**
+- 💬 Ask me about **DSA, Frontend, Backend Technologies,RESTFul APIs,Web Socket**
 
 - 📫 How to reach me **sakshipunde2005@gmail.com**
 
